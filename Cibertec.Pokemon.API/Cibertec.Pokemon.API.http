@@ -1,0 +1,6 @@
+@Cibertec.Pokemon.API_HostAddress = http://localhost:5033
+
+GET {{Cibertec.Pokemon.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
